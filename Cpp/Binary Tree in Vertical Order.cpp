@@ -73,5 +73,5 @@ int main() {
         cout << "Vertical order traversal is \n";
         verticalOrder(root);
 
-        return 0; 
+        return 0;  
 }
