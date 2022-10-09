@@ -1,8 +1,6 @@
 #include <iostream>
 
 using namespace std;
-
-// A node of binary tree  
 struct Node 
 {
         int data;
@@ -75,5 +73,5 @@ int main() {
         cout << "Vertical order traversal is \n";
         verticalOrder(root);
 
-        return 0;
+        return 0; 
 }
